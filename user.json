@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "王麻子",
+    "age": 36,
+    "sex": "male",
+    "TEL": 1366666666,
+    "identityCard":88888888888888888,
+    "number": 1,
+    "jobInformation": {
+      "workingYears": 14,
+      "state": "在职",
+      "section": "操作工",
+      "administrativeOffice": "下部",
+      "team": 1,
+      "department": "焊装"
+    },
+    "clockingIn": {
+      "ALAll": 5,
+      "ALAlready": 3,
+      "CL": 1,
+      "SL": 1,
+      "SOL": 0,
+      "pendingApproval": 0,
+      "absenteeism": 0,
+      "tardy": 1,
+      "leaveEarly": 0,
+      "clockAbnormal": 2,
+      "repairClock": 1,
+      "legwork": 0,
+      "onBusiness": 0
+    }
+  },
+  {
+    "id": 2,
+    "name": "王大拿",
+    "age": 36,
+    "sex": "male",
+    "TEL": 1366666666,
+    "identityCard":88888888888888888,
+    "number": 2,
+    "jobInformation": {
+      "workingYears": 14,
+      "state": "在职",
+      "section": "班长",
+      "administrativeOffice": "下部",
+      "team": 1,
+      "department": "焊装"
+    },
+    "clockingIn": {
+      "ALAll": 5,
+      "ALAlready": 3,
+      "CL": 1,
+      "SL": 1,
+      "SOL": 0,
+      "pendingApproval": 0,
+      "absenteeism": 0,
+      "tardy": 1,
+      "leaveEarly": 0,
+      "clockAbnormal": 2,
+      "repairClock": 1,
+      "legwork": 0,
+      "onBusiness": 0
+    }
+  },
+  {
+    "id": 3,
+    "name": "王大拿",
+    "age": 36,
+    "sex": "male",
+    "TEL": 1366666666,
+    "identityCard":88888888888888888,
+    "number": 3,
+    "jobInformation": {
+      "workingYears": 14,
+      "state": "在职",
+      "section": "工长",
+      "team": 0,
+      "administrativeOffice": "下部",
+      "department": "焊装"
+    },
+    "clockingIn": {
+      "ALAll": 5,
+      "ALAlready": 3,
+      "CL": 1,
+      "SL": 1,
+      "SOL": 0,
+      "pendingApproval": 0,
+      "absenteeism": 0,
+      "tardy": 1,
+      "leaveEarly": 0,
+      "clockAbnormal": 2,
+      "repairClock": 1,
+      "legwork": 0,
+      "onBusiness": 0
+    }
+  },
+  {
+    "id": 4,
+    "name": "王大拿",
+    "age": 36,
+    "sex": "male",
+    "TEL": 1366666666,
+    "identityCard":88888888888888888,
+    "number": 4,
+    "jobInformation": {
+      "workingYears": 14,
+      "state": "在职",
+      "section": "主管",
+      "team": 1,
+      "administrativeOffice": 0,
+      "department": "焊装"
+    },
+    "clockingIn": {
+      "ALAll": 5,
+      "ALAlready": 3,
+      "CL": 1,
+      "SL": 1,
+      "SOL": 0,
+      "pendingApproval": 0,
+      "absenteeism": 0,
+      "tardy": 1,
+      "leaveEarly": 0,
+      "clockAbnormal": 2,
+      "repairClock": 1,
+      "legwork": 0,
+      "onBusiness": 0
+    }
+  },
+  {
+    "id": 5,
+    "name": "王大拿",
+    "age": 36,
+    "sex": "male",
+    "TEL": 1366666666,
+    "identityCard":88888888888888888,
+    "number": 5,
+    "jobInformation": {
+      "workingYears": 14,
+      "state": "在职",
+      "section": "职员",
+      "administrativeOffice": "人事",
+      "department": "焊装"
+    },
+    "clockingIn": {
+      "ALAll": 5,
+      "ALAlready": 3,
+      "CL": 1,
+      "SL": 1,
+      "SOL": 0,
+      "pendingApproval": 0,
+      "absenteeism": 0,
+      "tardy": 1,
+      "leaveEarly": 0,
+      "clockAbnormal": 2,
+      "repairClock": 1,
+      "legwork": 0,
+      "onBusiness": 0
+    }
+  },
+  {
+    "id": 5,
+    "name": "王大拿",
+    "age": 36,
+    "sex": "male",
+    "TEL": 1366666666,
+    "identityCard":88888888888888888,
+    "number": 15,
+    "jobInformation": {
+      "workingYears": 14,
+      "state": "在职",
+      "section": "部长",
+      "administrativeOffice": "人事",
+      "department": "焊装"
+    },
+    "clockingIn": {
+      "ALAll": 5,
+      "ALAlready": 3,
+      "CL": 1,
+      "SL": 1,
+      "SOL": 0,
+      "pendingApproval": 0,
+      "absenteeism": 0,
+      "tardy": 1,
+      "leaveEarly": 0,
+      "clockAbnormal": 2,
+      "repairClock": 1,
+      "legwork": 0,
+      "onBusiness": 0
+    }
+  }
+]
